@@ -26,6 +26,7 @@ Improved safety measures can reduce costs and disruptions.
 Accuracy: 92%
 
 Recall: 54%
+
  (Future improvements will focus on recall to reduce false negatives.) Model is well-generalized and captures key patterns in bird strikes.
 
 ##Technologies Used: Python (Pandas, NumPy, Matplotlib, Seaborn), Statsmodels & SciPy, Jupyter Notebook.
